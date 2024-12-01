@@ -5,7 +5,7 @@
 
 This role allows you to configure tasmota devices by executing commands.
 
-:bulb: See https://tasmota.github.io/docs/#/Commands for a command list.
+:bulb: See [https://tasmota.github.io/docs/#/Commands](https://tasmota.github.io/docs/Commands/) for a command list.
 
 This role/action_plugin will send commands to a tasmota device using web requests.
 It will perform the following steps for each provided `command`,`value` pair in the `tasmota_commands`:
